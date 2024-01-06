@@ -2,7 +2,6 @@
   font-family: Arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
-
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
@@ -33,14 +32,13 @@
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+  margin-bottom: 30px;
 }
 
 .Weather canvas {
   display: inline-block;
-  height: 60px;
   margin-top: unset;
   vertical-align: top;
-  width: 60px;
   margin-right: 10px;
 }
 
