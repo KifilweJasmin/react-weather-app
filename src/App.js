@@ -12,7 +12,8 @@ export default function App() {
           This project was coded by KifilweJasmin and is open-sourced{" "}
           <a
             href="https://github.com/KifilweJasmin/react-weather-app"
-            target="blank"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             on GitHub
           </a>
