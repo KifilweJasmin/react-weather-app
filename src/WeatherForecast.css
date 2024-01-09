@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.WeatherForecast:hover {
+  background-color: #ffffff4d;
+}
+
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 2px;
